@@ -1,0 +1,7 @@
+/build/
+/mysh
+*.o
+*.d
+*.out
+/output.txt
+*:Zone.Identifier
